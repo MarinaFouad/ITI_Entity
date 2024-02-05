@@ -1,0 +1,14 @@
+D:\ITI-dotNet\Linq\Trail\bin\Debug\net8.0\Trail.exe
+D:\ITI-dotNet\Linq\Trail\bin\Debug\net8.0\Trail.deps.json
+D:\ITI-dotNet\Linq\Trail\bin\Debug\net8.0\Trail.runtimeconfig.json
+D:\ITI-dotNet\Linq\Trail\bin\Debug\net8.0\Trail.dll
+D:\ITI-dotNet\Linq\Trail\bin\Debug\net8.0\Trail.pdb
+D:\ITI-dotNet\Linq\Trail\obj\Debug\net8.0\Trail.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-dotNet\Linq\Trail\obj\Debug\net8.0\Trail.AssemblyInfoInputs.cache
+D:\ITI-dotNet\Linq\Trail\obj\Debug\net8.0\Trail.AssemblyInfo.cs
+D:\ITI-dotNet\Linq\Trail\obj\Debug\net8.0\Trail.csproj.CoreCompileInputs.cache
+D:\ITI-dotNet\Linq\Trail\obj\Debug\net8.0\Trail.dll
+D:\ITI-dotNet\Linq\Trail\obj\Debug\net8.0\refint\Trail.dll
+D:\ITI-dotNet\Linq\Trail\obj\Debug\net8.0\Trail.pdb
+D:\ITI-dotNet\Linq\Trail\obj\Debug\net8.0\Trail.genruntimeconfig.cache
+D:\ITI-dotNet\Linq\Trail\obj\Debug\net8.0\ref\Trail.dll
